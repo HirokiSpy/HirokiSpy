@@ -1,15 +1,15 @@
-# Hai, saya HirokiSpy 👋
+# Hi, I'm HirokiSpy 👋
 
-Pelajar / pembangun yang suka membina projek, mencuba teknologi baharu, dan belajar setiap hari.
+A curious developer who loves building projects, exploring new technologies, and learning every day.
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 
-- 🔭 Sedang membina projek dan mengasah kemahiran pengaturcaraan
-- 🌱 Sentiasa belajar teknologi baharu
-- 💡 Berminat dengan pengaturcaraan, web dan automasi
-- 🤝 Terbuka untuk berkolaborasi dalam projek menarik
+- 🔭 Building projects and sharpening my coding skills
+- 🌱 Always learning new technologies
+- 💻 Interested in programming, web development, and automation
+- 🤝 Open to collaborating on interesting projects
 
-## 🛠️ Teknologi
+## 🛠️ Technologies
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,13 +20,13 @@ Pelajar / pembangun yang suka membina projek, mencuba teknologi baharu, dan bela
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HirokiSpy&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiSpy&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🤝 Mari Berhubung
+## 🤝 Let's Connect
 
-Terima kasih kerana melawat profil saya! Jangan malu untuk melihat projek saya atau berkolaborasi.
+Thanks for visiting my profile! Feel free to explore my projects or collaborate with me.
