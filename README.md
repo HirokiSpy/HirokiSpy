@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="420" alt="Animated anime banner" />
+  <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=HirokiSpy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20and%20learning%20every%20day&descAlignY=60&descSize=18" alt="HirokiSpy profile banner" />
 
   <a href="https://git.io/typing-svg">
