@@ -4,7 +4,7 @@
 
 # <samp>HirokiSpy</samp>
 
-### Developer · Creator · Lifelong Learner
+### Student · Developer · Creator · Lifelong Learner
 
 <a href="https://github.com/HirokiSpy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects;Learning+new+technology+every+day;Open+to+collaboration+and+new+challenges" alt="Typing introduction" />
